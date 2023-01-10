@@ -2,7 +2,7 @@
   "repository": {},
   "dependencies": {
     "phoenix": "~1.4",
-    "phoenix_html": "~2.12"
+    "phoenix_html": "~3.0"
   },
   "devDependencies": {
     "autoprefixer": "~8.5",
